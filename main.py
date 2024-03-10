@@ -5,7 +5,7 @@ from crewai_tools import WebsiteSearchTool
 import requests
 from requests.exceptions import RequestException
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 # Define your agents with roles and goals
